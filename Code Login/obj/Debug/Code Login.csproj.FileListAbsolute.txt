@@ -1,0 +1,12 @@
+D:\Programming\Code Login\Code Login\bin\Debug\Code Login.exe.config
+D:\Programming\Code Login\Code Login\bin\Debug\Code Login.exe
+D:\Programming\Code Login\Code Login\bin\Debug\Code Login.pdb
+D:\Programming\Code Login\Code Login\obj\Debug\Code Login.csproj.AssemblyReference.cache
+D:\Programming\Code Login\Code Login\obj\Debug\Code Login.csproj.SuggestedBindingRedirects.cache
+D:\Programming\Code Login\Code Login\obj\Debug\Code_Login.Properties.Resources.resources
+D:\Programming\Code Login\Code Login\obj\Debug\Code Login.csproj.GenerateResource.cache
+D:\Programming\Code Login\Code Login\obj\Debug\Code Login.csproj.CoreCompileInputs.cache
+D:\Programming\Code Login\Code Login\obj\Debug\Code Login.exe
+D:\Programming\Code Login\Code Login\obj\Debug\Code Login.pdb
+D:\Programming\Code Login\Code Login\obj\Debug\Code_Login.Loginform.resources
+D:\Programming\Code Login\Code Login\obj\Debug\Code_Login.FormProgramming.resources
